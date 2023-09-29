@@ -28,7 +28,7 @@ In aim to create this tool, we will learn a large range of topic:
 Some topic are going to be easy and simple, some will be hard and complexe.  
 Don't feel affraid by all the topic you don't know yet.  
   
-By reading and watching my guide, you can expect to learn from small workshop to workshop more and more on how to build Unity3D applications that use mixed reality.    
+By reading and watching my guide, you can expect to learn from small topic in all split workshop. More you learn, more you will be able to create Unity3D applications that use mixed reality to remote control your environment.
 
 That does not means that I will chew all the works for you.    
 But you will have code, note, playlist, source and reference to reproduce what I succeed to add to my applications.   
