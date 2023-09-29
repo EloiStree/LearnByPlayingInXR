@@ -7,7 +7,7 @@
 
 Hello and welcome to you. 
 
-My name is Éloi Strée and I am a game developer that like to play video game that require skills.
+My name is Éloi Strée and I am a game developer that like to play video game requiring skills.
 To have more fun, I created Open Macro Input that allows me to enhance my gameplay with macro and remapping.
 
 On this workshop, we will learn and I am going to teach you how to create my dream application:
