@@ -47,8 +47,8 @@ But that not what is important...
 
 What is important is that you are here, ready to learn and create for those new crazy experiment on Lynx and the Quest 3 !
 
-[So let's start already 😁](https://github.com/EloiStree/HelloOMIXR/wiki).  
-(https://github.com/EloiStree/HelloOMIXR/wiki)  
+[So let's start already 😁 >](https://github.com/EloiStree/HelloOMIXR/wiki).  
+
 
 
 
