@@ -15,6 +15,7 @@ On this workshop, we will learn and I am going to teach you how to create my dre
 
 In aim to create this tool, we will learn a large range of topic:  
 - Python to simulate keyboard, joystick and other devices;
+- Raspberry Pico to create you joysticks and keyboard for XR;
 - C# and Unity3D to create the tools we want;
 - Hand tracking, Spacial anchor, virtual reality toolbox;  
 - Network message, Bluetooth Connection, Internet of Thing;   
