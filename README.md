@@ -28,7 +28,7 @@ In aim to create this tool, we will learn a large range of topic:
 Some topic are going to be easy and simple, some will be hard and complexe.  
 Don't feel affraid by all the topic you don't know yet.  
   
-By reading and watching my guide, you can expect to learn from small topic in all split workshop. More you learn, more you will be able to create Unity3D applications that use mixed reality to remote control your environment.
+By reading and watching my guide, you can expect to learn small piece of knowledge by each workhsop and use them in your project as tool afterward in your own. More you learn, more you will be able to create Unity3D applications that use mixed reality to remote control your environment.
 
 That does not means that I will chew all the works for you.    
 But you will have code, note, playlist, source and reference to reproduce what I succeed to add to my applications.   
@@ -36,18 +36,21 @@ But you will have code, note, playlist, source and reference to reproduce what I
 Should you read this guide if you are a new user of Unity ?  
 Maybe not. Youtube is full of better teacher on those topics 😊. 
 
-But from time to time, I may write some beginner guide for formation center in Belgium that will be add here. 
+But from time to time, I may write some beginner guide for formation center in Belgium that are going to be add to this project. 
 
 
 This guide is free. All my workshops since 2014 had been open source on GitHub and free.  
 It is the ability to teach in different part of Belgium that allowed me to create those workshops.  
 The goal are to help citizens that can't affort school to learn and enter in the belgian video game industry. 
 
-By that not what is important.
+But that not what is important...  
 
 What is important is that you are here, ready to learn and create for those new crazy experiment on Lynx and the Quest 3 !
 
-So let's start already 😁.
+[So let's start already 😁](https://github.com/EloiStree/HelloOMIXR/wiki).  
+(https://github.com/EloiStree/HelloOMIXR/wiki)  
+
+
 
 
 
