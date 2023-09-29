@@ -11,7 +11,7 @@ My name is Éloi Strée and I am a game developer that like to play video game t
 To have more fun, I created Open Macro Input that allows me to enhance my gameplay with macro and remapping.
 
 On this workshop, we will learn and I am going to teach you how to create my dream application:
-`A headset that can be use to play game in augmented reality but can also be used as a remapping station for your favorite joysticks.`
+`A headset that can be use to play game in augmented reality but can also be used as a remapping station for your favorite joysticks when not used !`
 
 In aim to create this tool, we will learn a large range of topic:  
 - Python to simulate keyboard, joystick and other devices;
