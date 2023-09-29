@@ -7,8 +7,8 @@
 
 Hello and welcome to you. 
 
-My name is Éloi Strée and I am a game developer that like to play video game requiring skills.
-To have more fun, I created Open Macro Input that allows me to enhance my gameplay with macro and remapping.
+My name is Éloi Strée and I am a game developer that like to play video game requiring skills.  
+To have more fun, I created Open Macro Input that allows me to enhance my gameplay with macro and remapping.  
 
 On this workshop, we will learn and I am going to teach you how to create my dream application:
 `A headset that can be use to play game in augmented reality but can also be used as a remapping station for your favorite joysticks when not used !`
