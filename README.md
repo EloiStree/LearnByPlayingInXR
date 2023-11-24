@@ -1,8 +1,8 @@
 > You want to learn how to create Lynx R1 or Quest 3 mixed reality application to control the world around you ?
 > Then this workshop is for you.
 
-Share link: [http://eloistree.github.io/r/playxr ](http://eloistree.github.io/r/playxr ) 
-_If you like what I do hear and want to share it._  
+Share link: [http://eloistree.github.io/r/playxr ](http://eloistree.github.io/r/playxr)   
+_If you like what I do hear and want to share it._    
 
 # Hello OMI XR
 
